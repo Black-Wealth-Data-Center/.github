@@ -18,10 +18,13 @@ title: "[SOURCE REQUEST]"
 *Please provide the source URL or information on how to locate the source data*
 
 ### Ingestion schedule:
+- [ ] One time only
 - [ ] Daily
 - [ ] Weekly (specify day(s) of week: Mon, Tues, etc)
 - [ ] Monthly (specify day(s) of month: 1st, 2nd, 3rd, etc)
-- [ ] One time only
+- [ ] Quarterly
+- [ ] Annually
+- [ ] Other: 
 
 ### Raw data requirements:
 *In most cases, all raw data columns are ingested. If this source requires the user to request specific datapoints, list any required data columns here. If only a specific month/year/zipcode/etc is required, please include that information here.*
