@@ -1,35 +1,27 @@
-## Related ticket
+##
 
-- [Ticket link]
+## What this does and why
 
-## Summary
+- List changes and why
 
-Briefly explain what changed and why.
+## PR type
 
-## Testing performed
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
-Document what you tested or validated before opening the PR.
+## Related Issues and PRs
 
-- 
+- List any related Issues and/or PRs
 
-## Steps to verify
+## How it was tested
 
-Provide the steps a reviewer should take to confirm the change works as described. Include expected behavior where helpful.
+- Describe how it was tested
 
-1.
-2.
-3.
+## Are there any post-deployment steps?
 
-## Reviewer notes
+- List any post-merge steps.
 
-Highlight anything the reviewer should pay particular attention to, including:
+## Additional discussion
 
-- Opinionated implementation choices
-- Areas where feedback is especially welcome
-- Tradeoffs or known limitations
-- Alternative or edge-case paths worth testing
-- Related or follow-up work
-
-## Screenshots
-
-If applicable.
+- Add any additional discussion topics or outstanding questions
